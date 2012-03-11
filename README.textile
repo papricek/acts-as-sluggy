@@ -1,4 +1,3 @@
-acts_as_sluggy
-============
+h1. acts_as_sluggy
 
 Updates slug in before_save and adds to_param.
