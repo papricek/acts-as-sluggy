@@ -1,7 +1,7 @@
 Gem::Specification.new do |gem|
   gem.name = 'acts_as_sluggy'
   gem.version = '0.0.1'
-  gem.date = '2012-3-11'
+  gem.date = '2012-03-11'
   gem.summary = "Acts as sluggy!"
   gem.description = "A little slug helper."
   gem.authors = ["Patrik Jíra"]
